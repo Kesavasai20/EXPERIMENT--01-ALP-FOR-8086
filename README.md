@@ -114,7 +114,8 @@ MUL BL
 HLT
 ```
  ## Output : 
-![image](https://github.com/user-attachments/assets/bb031697-22cf-4953-8fa2-61dec1c624db)
+![image](https://github.com/user-attachments/assets/26a280dc-7eea-44e2-aeca-9e93caf6dd49)
+
 
 
 ## Division alp :
